@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RegistrationForm renders correctly and matches snapshot 1`] = `
+<DocumentFragment>
+  <form>
+    <div>
+      <label
+        for="login"
+      >
+        Login
+      </label>
+      <input
+        id="login"
+        type="text"
+        value=""
+      />
+    </div>
+    <div>
+      <label
+        for="email"
+      >
+        Email
+      </label>
+      <input
+        id="email"
+        type="email"
+        value=""
+      />
+    </div>
+    <div>
+      <label
+        for="password"
+      >
+        Password
+      </label>
+      <input
+        id="password"
+        type="password"
+        value=""
+      />
+    </div>
+    <button
+      disabled=""
+      type="submit"
+    >
+      Register
+    </button>
+  </form>
+</DocumentFragment>
+`;
